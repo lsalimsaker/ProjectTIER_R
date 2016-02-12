@@ -1,7 +1,9 @@
 # The TIER Documentation Protocol v2.0 for R
 
 This is my edit on Markdown. 2nd in order to check comment. Trying to use some LaTeX:
-$\hat{Y}=x\beta + u$
+'''tex
+\hat{Y}=x\beta + u
+'''
 
 ## Overview 
 
